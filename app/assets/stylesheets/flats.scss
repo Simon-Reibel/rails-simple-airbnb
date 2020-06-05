@@ -1,0 +1,36 @@
+// Place all the styles related to the Flats controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+body{
+    max-width: 992px;
+    margin: 0 auto;
+}
+.img-card{
+    height: 180px;
+    background-image: url(https://source.unsplash.com/random/300x180);
+}
+.flat-card {
+    border: 1px solid rgba(200, 200, 200, 0.1);
+    height: 400px;
+    box-shadow: 0px 1px 4px rgba(200, 200, 200, 0.4);
+}
+
+.cards{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap : 16px;
+    max-width: 992px;
+    margin: 0 auto;
+}
+
+@media(max-width: 992px) {
+    .cards {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  
+  @media(max-width: 768px) {
+    .cards {
+      grid-template-columns: 1fr;
+    }
+  }
