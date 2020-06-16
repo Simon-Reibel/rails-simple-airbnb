@@ -62,7 +62,7 @@
             "value": "La Partie A et la Partie B sont dénommés collectivement les « Parties » et chacune individuellement la « Partie » à moins qu'elle ne soit spécifiquement désignée par l'une des dénominations ci-dessus."
         },
         {
-            "type": "pbold",
+            "type": "h2",
             "value": "Préambule"
         },
         {
@@ -70,7 +70,7 @@
             "value": "Les Parties conviennent de conclure le présent contrat, ci-après le « Contrat » dans les termes suivants :"
         },
         {
-            "type": "pbold",
+            "type": "h2",
             "value": "Article - Obligations des Parties"
         },
         {
@@ -78,7 +78,7 @@
             "value": "Les Parties ne s'engagent à aucune obligation particulière au terme du présent contrat."
         },
         {
-            "type": "pbold",
+            "type": "h2",
             "value": "Article - Durée."
         },
         {
