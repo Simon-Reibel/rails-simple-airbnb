@@ -1,6 +1,10 @@
 {
     "template": [
         {
+            "type": "name",
+            "value": "test"
+        },
+        {
             "type": "h1Bold",
             "value": "FAKE CONTRACT"
         },
