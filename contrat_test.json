@@ -42,7 +42,7 @@
             "value": "Quel est la dénomination sociale de votre co-contractant ?"
         },
         {
-            "type": "p",
+            "type": "pafter",
             "value": "{{Quelle est la forme sociale de votre co-contractant ?}}, au capital de {{Quel est le montant du capital du co-contractant ?}} euros, dont le siège social est situé {{Où se situe le siège social de votre co-contractant ?}} et inscrite au Registre du Commerce et des Sociétés de {{Quelle est la ville auprès du greffe de laquelle est enregistrée l'entreprise co-contractante ?}} sous le numéro RCS {{Quel est le numéro de RCS de votre co-contractant ?}}, représentée par {{Quels sont les prénom et nom du représentant de votre co-contractant ?}}, agissant en qualité de {{Quelle est la fonction du représentant de votre co-contractant ?}}"
         },
         {
