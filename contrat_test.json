@@ -13,11 +13,11 @@
             "value": "ENTREE"
         },
         {
-            "type": "pBold",
+            "type": "pvarBold",
             "value": "Quelle est la dénomination sociale de votre entreprise ?"
         },
         {
-            "type": "p",
+            "type": "pafter",
             "value": "Quelle est la forme sociale de votre entreprise ? au capital de Quel est le montant du capital social de votre société ? euros, dont le siège social est situé Où se situe le siège social de votre entreprise ? et inscrite au Registre du Commerce et des Sociétés de Quelle est la ville auprès du greffe de laquelle est enregistrée votre entreprise ? sous le numéro RCS Quelle est la dénomination sociale de votre entreprise ? représentée par Quels sont les prénom et nom du représentant de votre entreprise ? agissant en qualité de Quelle est la fonction du représentant de votre entreprise ?"
         },
         {
@@ -26,11 +26,11 @@
         }
         ,
         {
-            "type": "pBold",
+            "type": "pvarBold",
             "value": "Partie A"
         },
         {
-            "type": "p",
+            "type": "pafter",
             "value": "» d'une part,"
         },
         {
